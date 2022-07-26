@@ -43,7 +43,7 @@ This analysis leads to three recommendations for the initial content selection a
 
 ## Moving Forward
 
-Further analyses could yield additional insights to further improve operations at AAC:
+Further analyses could yield additional insights to further improve success at Microsoft:
 
 - **Look at production studio data to determine inital success of movies types within the suggested rating categories.** 
 - **Understand review data and how it impacts success for both studio, and franchises.**
