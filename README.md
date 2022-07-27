@@ -27,10 +27,19 @@ This project uses descriptive analysis, including description of trends over tim
 
 ## Results
 
-Most movies that were released in this data set (between 2006 and 2018, and have a budget of over $10M) are profitable.  However, when you start to look at the type of content (rating) of the movies, you can begin to dicern a higher probability of profitability.  Something that is really important for a company that is just beginning their content journey.
+Most movies that were released in this data set (between 2006 and 2018, and have a budget of over $10M) are profitable.  However, when you start to look at the type of content (rating) of the movies, you can begin to dicern a higher probability of profitability.  Something that is really important for a company that is just beginning their content journey.  Over time you can see that movies rated for the family do better from and ROI perspective than those movies targeted for audiences over the age of 17.
 
-When you pair a movie's rating, along with how it is distributed and it's ability to franchise, you improve the chances of having a very profitable film compared to movies that have a more targeted audience (i.e. NC-17 and R).
+![roi_by_fam_and_non-fam_movies_over_time](./images/ROI by Fam and Non-Fam Movies.jpeg)
 
+When you pair a movie's rating, along with how it is distributed and it's ability to franchise, you improve the chances of having a very profitable film compared to movies that have a more targeted audience (i.e. NC-17 and R).  Median internation box office revenue is consistently higher than non-family movies as well.  And we know that the international box office plays a big part in total box office revenue, accounting for more than half of gross revenue.
+
+![med_box_office_over_time](./images/Median Int'l box office over time.jpeg)
+
+Now that we know we need international movies that appeal to a international audience, the final performance variable I evaluated was if the movie had a sequel or not.  International Family Movies that have a sequel experience a return of almost twice the amount of movies (international, family) without a sequel.
+
+![med_box_office_over_time](./images/ROI by Method and Franchise)
+
+These 3 variables have a considerable impact on ROI and total revenue, which will optimize success for Microsoft from the start.
 
 ## Conclusions
 
