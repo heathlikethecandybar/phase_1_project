@@ -1,4 +1,4 @@
-![movie_theatre](https://github.com/heathlikethecandybar/phase_1_project/tree/main/images)
+![movie_theatre](https://github.com/heathlikethecandybar/phase_1_project/blob/main/images/movie_theatre.jpeg)
 
 # Microsoft Corp. Movie Studio Analysis
 
