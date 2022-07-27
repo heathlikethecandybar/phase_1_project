@@ -72,6 +72,6 @@ For additional info, contact Heath Rittler at [hrittler@gmail.com](mailto:hrittl
 ├── data
 ├── images
 ├── README.md
-├── ###.pdf
-└── ###.ipynb
+├── FI - Phase 1 Project.pdf
+└── phase_1_project.ipynb
 ```
