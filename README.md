@@ -61,7 +61,7 @@ Further analyses could yield additional insights to further improve success at M
 
 ## For More Information
 
-The full analysis is located in the [Jupyter Notebook](./phase_1_project.ipynb) or review this summary [presentation](./.pdf).
+The full analysis is located in the [Jupyter Notebook](./phase_1_project.ipynb) or review this summary [presentation](./FI - Phase 1 Project.pdf).
 
 For additional info, contact Heath Rittler at [hrittler@gmail.com](mailto:hrittler@gmail.com)
 
